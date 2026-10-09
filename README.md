@@ -1,8 +1,8 @@
-# CDAC August 2026 Python Assignments
+# CDAC August 2026 Coursework
 
-This repository contains my Python assignment solutions and lab work completed during my CDAC course in August 2026. 
+This repository contains my assignment solutions and lab work completed during my CDAC course.
 
-## 📅 Course Schedule & Daily Progress
+## 📅 Python Module (August - Sept)
 
 | Folder | Topic / Assignment | Original Completion Date |
 | :--- | :--- | :--- |
@@ -12,6 +12,11 @@ This repository contains my Python assignment solutions and lab work completed d
 | 📁 **DAY_04** | File Handling | August 28, 2026 |
 | 📁 **DAY_05** | Object-Oriented Programming (OOPs) | August 29, 2026 |
 | 📁 **DAY_06** | Exception Handling | August 31, 2026 |
-| 📁 **DAY_07** | Practice Projects | September 01, 2026 |
+| 📁 **DAY_07** | Practice Projects / Final Lab Exam | September 01, 2026 |
 
-*Note: The upload timestamps on GitHub reflect the date these files were published online, while the table above tracks my actual daily class progress.*
+## 📅 Linux Module (September)
+
+| Folder | Topic / Assignment | Original Completion Date |
+| :--- | :--- | :--- |
+| 📁 **DAY_01** | Linux Architecture & Basic Commands | September 11, 2026 |
+| 📁 **DAY_02** | File Permissions & Shell Scripting | September 12, 2026 |
