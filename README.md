@@ -1,4 +1,4 @@
-# CDAC August 2026 Coursework
+# CDAC August 2026 Batch Coursework
 
 This repository contains my assignment solutions and lab work completed during my CDAC course.
 
